@@ -1,0 +1,1502 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.3.25)  2 APR 2017 22:22
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(D:\software_path\MikTex\tex\latex\koma-script\scrreprt.cls
+Document Class: scrreprt 2016/05/10 v3.20 KOMA-Script document class (report)
+(D:\software_path\MikTex\tex\latex\koma-script\scrkbase.sty
+Package: scrkbase 2016/05/10 v3.20 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(D:\software_path\MikTex\tex\latex\koma-script\scrbase.sty
+Package: scrbase 2016/05/10 v3.20 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(D:\software_path\MikTex\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(D:\software_path\MikTex\tex\latex\koma-script\scrlfile.sty
+Package: scrlfile 2016/05/10 v3.20 KOMA-Script package (loading files)
+
+Package scrlfile, 2016/05/10 v3.20 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (D:\software_path\MikTex\tex\latex\koma-script\tocbasic.sty
+Package: tocbasic 2016/05/10 v3.20 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box26
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 132.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 133.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 134.
+Package tocbasic Info: defining new hook before heading of `' on input line 160
+5.
+Class scrreprt Info: You've used standard option `openright'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `open=right'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `open=right' there
+(scrreprt)           instead of `openright', too.
+Class scrreprt Info: File `scrsize11pt.clo' used to setup font sizes on input l
+ine 2265.
+
+(D:\software_path\MikTex\tex\latex\koma-script\scrsize11pt.clo
+File: scrsize11pt.clo 2016/05/10 v3.20 KOMA-Script font size class option (11pt
+)
+)
+(D:\software_path\MikTex\tex\latex\koma-script\typearea.sty
+Package: typearea 2016/05/10 v3.20 KOMA-Script package (type area)
+
+Package typearea, 2016/05/10 v3.20 KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip42
+\ta@div=\count79
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 408.2971pt
+(typearea)              DIV departure   = -3%
+(typearea)              \evensidemargin = 44.38632pt
+(typearea)              \oddsidemargin  = 0.28453pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 514.20023pt
+(typearea)              \topmargin      = 12.2347pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1528.
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\scr@dte@part@maxnumwidth=\skip47
+\scr@dte@chapter@maxnumwidth=\skip48
+\scr@dte@section@maxnumwidth=\skip49
+\scr@dte@subsection@maxnumwidth=\skip50
+\scr@dte@subsubsection@maxnumwidth=\skip51
+\scr@dte@paragraph@maxnumwidth=\skip52
+\scr@dte@subparagraph@maxnumwidth=\skip53
+LaTeX Info: Redefining \textsubscript on input line 4769.
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\c@pti@nb@sid@b@x=\box27
+\c@figure=\count87
+\c@table=\count88
+Class scrreprt Info: Redefining `\numberline' on input line 5764.
+\bibindent=\dimen102
+) (classicthesis-config.tex
+\c@dummy=\count89
+
+(D:\software_path\MikTex\tex\latex\lipsum\lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count90
+)
+(D:\software_path\MikTex\tex\latex\base\inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(D:\software_path\MikTex\tex\latex\base\latin9.def
+File: latin9.def 2015/03/17 v1.2c Input encoding file
+))
+(D:\software_path\MikTex\tex\latex\graphics\color.sty
+Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
+
+(D:\software_path\MikTex\tex\latex\00miktex\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 144.
+
+(D:\software_path\MikTex\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(D:\software_path\MikTex\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(D:\software_path\MikTex\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+(D:\software_path\MikTex\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(D:\software_path\MikTex\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(D:\software_path\MikTex\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(D:\software_path\MikTex\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count92
+\Gm@cntv=\count93
+\c@Gm@tempcnt=\count94
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks17
+
+(D:\software_path\MikTex\tex\latex\geometry\geometry.cfg))
+(D:\software_path\MikTex\tex\generic\babel\babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\software_path\MikTex\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\software_path\MikTex\tex\latex\babel-german\ngerman.ldf
+Language: ngerman 2013/12/13 v2.7 German support for babel (new orthography)
+
+(D:\software_path\MikTex\tex\latex\babel-german\ngermanb.ldf
+Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
+
+(D:\software_path\MikTex\tex\generic\babel\babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count95
+\U@D=\dimen111
+)
+\l@naustrian = a dialect from \language\l@ngerman 
+\l@nswissgerman = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 88.
+))
+(D:\software_path\MikTex\tex\latex\babel-english\english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(D:\software_path\MikTex\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip56
+\bibsep=\skip57
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count96
+)
+(D:\software_path\MikTex\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(D:\software_path\MikTex\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\software_path\MikTex\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen112
+))
+(D:\software_path\MikTex\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen113
+)
+(D:\software_path\MikTex\tex\latex\amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen114
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip10
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks19
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks20
+\eqnshift@=\dimen115
+\alignsep@=\dimen116
+\tagshift@=\dimen117
+\tagwidth@=\dimen118
+\totwidth@=\dimen119
+\lineht@=\dimen120
+\@envbody=\toks21
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(D:\software_path\MikTex\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(D:\software_path\MikTex\tex\latex\base\t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(D:\software_path\MikTex\tex\latex\tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(D:\software_path\MikTex\tex\latex\mparhack\mparhack.sty
+Package: mparhack 2005/04/17 v1.4 (T. Sgouros and S. Ulrich)
+)
+(D:\software_path\MikTex\tex\latex\base\fixltx2e.sty
+Package: fixltx2e 2015/06/22 v2.0b fixes to LaTeX (obsolete)
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+) (D:\software_path\MikTex\tex\latex\acronym\acronym.sty
+Package: acronym 2015/03/21 v1.41 Support for acronyms (Tobias Oetiker)
+
+(D:\software_path\MikTex\tex\latex\bigfoot\suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(D:\software_path\MikTex\tex\latex\xstring\xstring.sty
+(D:\software_path\MikTex\tex\generic\xstring\xstring.tex
+\@xs@message=\write3
+\integerpart=\count109
+\decimalpart=\count110
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(D:\software_path\MikTex\tex\latex\ltxmisc\relsize.sty
+Package: relsize 2003/07/04 ver 3.1
+)
+\AC@clearlist=\toks23
+)
+(D:\software_path\MikTex\tex\latex\graphics\graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\software_path\MikTex\tex\latex\graphics\graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\software_path\MikTex\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\software_path\MikTex\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+)
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(D:\software_path\MikTex\tex\latex\tools\tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+(D:\software_path\MikTex\tex\latex\tools\array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen123
+\extrarowheight=\dimen124
+\NC@list=\toks24
+\extratabsurround=\skip61
+\backup@length=\skip62
+)
+\TX@col@width=\dimen125
+\TX@old@table=\dimen126
+\TX@old@col=\dimen127
+\TX@target=\dimen128
+\TX@delta=\dimen129
+\TX@cols=\count111
+\TX@ftn=\toks25
+)
+(D:\software_path\MikTex\tex\latex\caption\caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(D:\software_path\MikTex\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen130
+\captionmargin@=\dimen131
+\captionwidth=\dimen132
+\caption@tempdima=\dimen133
+\caption@indent=\dimen134
+\caption@parindent=\dimen135
+\caption@hangindent=\dimen136
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count112
+)
+(D:\software_path\MikTex\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count113
+\sf@farskip=\skip63
+\sf@captopadj=\dimen137
+\sf@capskip=\skip64
+\sf@nearskip=\skip65
+\c@subfigure=\count114
+\c@subfigure@save=\count115
+\c@lofdepth=\count116
+\c@subtable=\count117
+\c@subtable@save=\count118
+\c@lotdepth=\count119
+\sf@top=\skip66
+\sf@bottom=\skip67
+)
+(D:\software_path\MikTex\tex\latex\listings\listings.sty
+\lst@mode=\count120
+\lst@gtempboxa=\box30
+\lst@token=\toks26
+\lst@length=\count121
+\lst@currlwidth=\dimen138
+\lst@column=\count122
+\lst@pos=\count123
+\lst@lostspace=\dimen139
+\lst@width=\dimen140
+\lst@newlines=\count124
+\lst@lineno=\count125
+\lst@maxwidth=\dimen141
+
+(D:\software_path\MikTex\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count126
+\lst@skipnumbers=\count127
+\lst@framebox=\box31
+)
+(D:\software_path\MikTex\tex\latex\listings\listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(D:\software_path\MikTex\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(D:\software_path\MikTex\tex\latex\listings\lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(D:\software_path\MikTex\tex\latex\listings\lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
+(D:\software_path\MikTex\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(D:\software_path\MikTex\tex\latex\listings\lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(D:\software_path\MikTex\tex\latex\listings\lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
+(D:\software_path\MikTex\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(D:\software_path\MikTex\tex\latex\listings\lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(D:\software_path\MikTex\tex\latex\listings\lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
+(D:\software_path\MikTex\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+(D:\software_path\MikTex\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2016/05/21 v6.83p Hypertext links for LaTeX
+
+(D:\software_path\MikTex\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(D:\software_path\MikTex\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(D:\software_path\MikTex\tex\latex\oberdiek\auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(D:\software_path\MikTex\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen142
+\Hy@linkcounter=\count128
+\Hy@pagecounter=\count129
+
+(D:\software_path\MikTex\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2016/05/21 v6.83p Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count130
+
+(D:\software_path\MikTex\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4362.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4362.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count131
+
+(D:\software_path\MikTex\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen143
+\Fld@menulength=\count132
+\Field@Width=\dimen144
+\Fld@charsize=\dimen145
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count133
+\c@Item=\count134
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(D:\software_path\MikTex\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2016/05/21 v6.83p Hyperref driver for pdfTeX
+\Fld@listcount=\count135
+\c@bookmark@seq@number=\count136
+
+(D:\software_path\MikTex\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip68
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 178.
+Package hyperref Info: Option `linktocpage' set `true' on input line 178.
+Package hyperref Info: Option `breaklinks' set `true' on input line 178.
+Package hyperref Info: Option `pageanchor' set `true' on input line 178.
+Package hyperref Info: Option `plainpages' set `false' on input line 178.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 178.
+
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 178.
+Package hyperref Info: Option `hypertexnames' set `true' on input line 178.
+
+(D:\software_path\MikTex\tex\latex\base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (classicthesis.sty
+Package: classicthesis 2011/12/17 v4.0 Typographic style for a classic-looking 
+thesis
+
+(D:\software_path\MikTex\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(D:\software_path\MikTex\tex\latex\00miktex\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(D:\software_path\MikTex\tex\latex\graphics\dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+(D:\software_path\MikTex\tex\latex\psnfss\mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+(D:\software_path\MikTex\tex\latex\bera\beramono.sty
+Package: beramono 2004/01/31 (WaS)
+)
+(D:\software_path\MikTex\tex\latex\eulervm\eulervm.sty
+Package: eulervm 2005/01/11 v4.0 (WaS)
+)
+(D:\software_path\MikTex\tex\latex\microtype\microtype.sty
+Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
+\MT@toks=\toks27
+\MT@count=\count137
+LaTeX Info: Redefining \textls on input line 774.
+\MT@outer@kern=\dimen146
+LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
+\MT@listname@count=\count138
+
+(D:\software_path\MikTex\tex\latex\microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 916.
+LaTeX Info: Redefining \lslig on input line 916.
+\MT@outer@space=\skip69
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(D:\software_path\MikTex\tex\latex\microtype\microtype.cfg
+File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
+))
+Package classicthesis Info: A4 paper, Palatino or other on input line 252.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = areaset
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 336.0pt
+(typearea)              \evensidemargin = 92.58438pt
+(typearea)              \oddsidemargin  = 24.38356pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 666.04997pt
+(typearea)              \topmargin      = -40.58768pt
+(typearea)              \headheight     = 15.95pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.60002pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 252.
+
+(D:\software_path\MikTex\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen147
+\lightrulewidth=\dimen148
+\cmidrulewidth=\dimen149
+\belowrulesep=\dimen150
+\belowbottomsep=\dimen151
+\aboverulesep=\dimen152
+\abovetopsep=\dimen153
+\cmidrulesep=\dimen154
+\cmidrulekern=\dimen155
+\defaultaddspace=\dimen156
+\@cmidla=\count139
+\@cmidlb=\count140
+\@aboverulesep=\dimen157
+\@belowrulesep=\dimen158
+\@thisruleclass=\count141
+\@lastruleclass=\count142
+\@thisrulewidth=\dimen159
+)
+(D:\software_path\MikTex\tex\latex\textcase\textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+Package classicthesis Info: Using pdftex/microtype for character spacing.Make s
+ure your pdftex is version 1.40 or higher. on input line 324.
+
+(D:\software_path\MikTex\tex\latex\koma-script\scrpage2.sty
+Package: scrpage2 2016/05/10 v3.20 KOMA-Script package (page head and foot)
+LaTeX Info: Redefining \pagemark on input line 174.
+)
+
+Class scrreprt Warning: Usage of package `titlesec' together
+(scrreprt)              with a KOMA-Script class is not recommended.
+(scrreprt)              I'd suggest to use the package only
+(scrreprt)              if you really need it, because it breaks several
+(scrreprt)              KOMA-Script features, i.e., option `headings' and
+(scrreprt)              the extended optional argument of the section
+(scrreprt)              commands.
+(scrreprt)              Nevertheless, using requested
+(scrreprt)              package `titlesec' on input line 355.
+
+(D:\software_path\MikTex\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box32
+\beforetitleunit=\skip70
+\aftertitleunit=\skip71
+\ttl@plus=\dimen160
+\ttl@minus=\dimen161
+\ttl@toksa=\toks28
+\titlewidth=\dimen162
+\titlewidthlast=\dimen163
+\titlewidthfirst=\dimen164
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+)
+
+Package scrreprt Warning: Activating an ugly workaround for a missing
+(scrreprt)                feature of package `titlesec` on input line 355.
+
+(D:\software_path\MikTex\tex\latex\tocloft\tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip72
+\cftbeforetoctitleskip=\skip73
+\cftaftertoctitleskip=\skip74
+\cftbeforepartskip=\skip75
+\cftpartnumwidth=\skip76
+\cftpartindent=\skip77
+\cftbeforechapskip=\skip78
+\cftchapindent=\skip79
+\cftchapnumwidth=\skip80
+\cftbeforesecskip=\skip81
+\cftsecindent=\skip82
+\cftsecnumwidth=\skip83
+\cftbeforesubsecskip=\skip84
+\cftsubsecindent=\skip85
+\cftsubsecnumwidth=\skip86
+\cftbeforesubsubsecskip=\skip87
+\cftsubsubsecindent=\skip88
+\cftsubsubsecnumwidth=\skip89
+\cftbeforeparaskip=\skip90
+\cftparaindent=\skip91
+\cftparanumwidth=\skip92
+\cftbeforesubparaskip=\skip93
+\cftsubparaindent=\skip94
+\cftsubparanumwidth=\skip95
+\cftbeforeloftitleskip=\skip96
+\cftafterloftitleskip=\skip97
+\cftbeforefigskip=\skip98
+\cftfigindent=\skip99
+\cftfignumwidth=\skip100
+\cftbeforelottitleskip=\skip101
+\cftafterlottitleskip=\skip102
+\cftbeforetabskip=\skip103
+\cfttabindent=\skip104
+\cfttabnumwidth=\skip105
+\cftbeforesubfigskip=\skip106
+\cftsubfigindent=\skip107
+\cftsubfignumwidth=\skip108
+\cftbeforesubtabskip=\skip109
+\cftsubtabindent=\skip110
+\cftsubtabnumwidth=\skip111
+)
+\newnumberwidth=\skip112
+\beforebibskip=\skip113
+\newchnumberwidth=\skip114
+\figurelabelwidth=\skip115
+\tablelabelwidth=\skip116
+\c@listings=\count143
+\cftbeforelistingsskip=\skip117
+\cftlistingsindent=\skip118
+\cftlistingsnumwidth=\skip119
+\c@loldepth=\count144
+\cftbeforeloltitleskip=\skip120
+\cftafterloltitleskip=\skip121
+\listingslabelwidth=\skip122
+
+Using KOMA-command "deffootnote" for footnote setup
+(D:\software_path\MikTex\tex\latex\koma-script\scrtime.sty
+Package: scrtime 2016/05/10 v3.20 KOMA-Script package (time of LaTeX run)
+)
+(D:\software_path\MikTex\tex\latex\ms\prelim2e.sty
+Package: prelim2e 2009/05/29 v1.3 prelim2e Package (MS)
+
+(D:\software_path\MikTex\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(D:\software_path\MikTex\tex\latex\carlisle\remreset.sty))) (main.aux
+(FrontBackMatter/Titlepage.aux) (FrontBackMatter/Titleback.aux)
+(FrontBackMatter/Dedication.aux) (FrontBackMatter/Abstract.aux)
+(FrontBackMatter/Publication.aux) (FrontBackMatter/Acknowledgments.aux)
+(FrontBackMatter/Contents.aux) (Chapters/Chapter01.aux) (Chapters/Chapter02.aux
+) (Chapters/Chapter03.aux) (Chapters/Chapter0A.aux)
+(FrontBackMatter/Bibliography.aux) (FrontBackMatter/Colophon.aux)
+(FrontBackMatter/Declaration.aux) (FrontBackMatter/Backpage.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Try loading font information for T1+pplj on input line 39.
+
+(D:\software_path\MikTex\tex\latex\psnfss\t1pplj.fd
+File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
+)
+(D:\software_path\MikTex\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count145
+\scratchdimen=\dimen165
+\scratchbox=\box33
+\nofMPsegments=\count146
+\nofMParguments=\count147
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count148
+\MPscratchDim=\dimen166
+\MPnumerator=\count149
+\makeMPintoPDFobject=\count150
+\everyMPtoPDFconversion=\toks30
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.70166pt, 418.25372pt, 107.55255pt)
+* v-part:(T,H,B)=(101.40665pt, 591.53027pt, 152.11002pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=336.0pt
+* \textheight=666.04997pt
+* \oddsidemargin=24.38356pt
+* \evensidemargin=92.58438pt
+* \topmargin=-40.58768pt
+* \headheight=15.95pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.60002pt
+* \marginparwidth=76.21515pt
+* \marginparsep=21.77576pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(D:\software_path\MikTex\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(D:\software_path\MikTex\tex\latex\oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count151
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring ON on input line 39.
+
+(D:\software_path\MikTex\tex\latex\hyperref\nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(D:\software_path\MikTex\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count152
+)
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
+LaTeX Info: Redefining \nameref on input line 39.
+ (main.out)
+(main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+LaTeX Info: Redefining \microtypecontext on input line 39.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No font expansion.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (D:\software_path\MikTex\tex\latex\microtype\mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+ABD: EveryShipout initializing macros
+\openout2 = `FrontBackMatter/Titlepage.aux'.
+
+ (FrontBackMatter/Titlepage.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(42.67912pt, 483.12715pt, 71.70166pt)
+* v-part:(T,H,B)=(42.67912pt, 700.96117pt, 101.40665pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=483.12715pt
+* \textheight=700.96117pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-0.56833pt
+* \topmargin=-65.94087pt
+* \headheight=15.95pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.60002pt
+* \marginparwidth=76.21515pt
+* \marginparsep=21.77576pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+LaTeX Font Info:    Try loading font information for T1+DejaVuSans-TLF on input
+ line 10.
+(D:\software_path\MikTex\tex\latex\dejavu\t1dejavusans-tlf.fd
+File: T1DejaVuSans-TLF.fd 2011/10/30 Font definitions for T1/DejaVuSans-TLF.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `DejaVuSans-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+<./gfx/HHpicture.png, id=143, 1468.48625pt x 704.6325pt>
+File: ./gfx/HHpicture.png Graphic file (type png)
+
+<use ./gfx/HHpicture.png>
+Package pdftex.def Info: ./gfx/HHpicture.png used on input line 18.
+(pdftex.def)             Requested size: 338.18753pt x 162.26636pt.
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 35.
+ (D:\software_path\MikTex\tex\latex\bera\t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 7.65005pt on input line 35.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `fvm' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+[1
+
+
+
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \vbox (5.5pt too high) has occurred while \output is active []
+
+ [2 <./gfx/HHpicture.png>])
+\openout2 = `FrontBackMatter/Titleback.aux'.
+
+ (FrontBackMatter/Titleback.tex
+LaTeX Font Info:    Try loading font information for OMS+pplj on input line 10.
+
+LaTeX Font Info:    No file OMSpplj.fd. on input line 10.
+
+
+LaTeX Font Warning: Font shape `OMS/pplj/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead on input line 10.
+
+! Misplaced alignment tab character &.
+l.16 ...dent\spacedlowsmallcaps{Supervisors}: Jen&
+                                                   Hassan Nimat
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+) [3
+
+
+] [4
+
+
+
+]
+\openout2 = `FrontBackMatter/Dedication.aux'.
+
+ (FrontBackMatter/Dedication.tex) [5
+
+] [6
+
+
+
+]
+\openout2 = `FrontBackMatter/Abstract.aux'.
+
+
+(FrontBackMatter/Abstract.tex) [7
+
+] [8
+
+
+
+]
+\openout2 = `FrontBackMatter/Publication.aux'.
+
+ (FrontBackMatter/Publication.tex
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 9.30756pt on input line 11.
+)
+[9
+
+
+
+] [10
+
+
+
+]
+\openout2 = `FrontBackMatter/Acknowledgments.aux'.
+
+ (FrontBackMatter/Acknowledgments.tex
+LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10.95> not available
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+zeur on input line 29.
+(D:\software_path\MikTex\tex\latex\eulervm\uzeur.fd
+File: uzeur.fd 2005/01/11 v4.0 (WaS)
+)
+(D:\software_path\MikTex\tex\latex\microtype\mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+LaTeX Font Info:    Try loading font information for U+zeus on input line 29.
+
+(D:\software_path\MikTex\tex\latex\eulervm\uzeus.fd
+File: uzeus.fd 2005/01/11 v4.0 (WaS)
+)
+(D:\software_path\MikTex\tex\latex\microtype\mt-eus.cfg
+File: mt-eus.cfg 2006/07/28 v1.2 microtype config. file: AMS Euler Script (RS)
+)
+LaTeX Font Info:    Try loading font information for U+zeuex on input line 29.
+
+(D:\software_path\MikTex\tex\latex\eulervm\uzeuex.fd
+File: uzeuex.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 29.
+
+
+(D:\software_path\MikTex\tex\latex\psnfss\ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Overfull \hbox (8.78125pt too wide) in paragraph at lines 29--30
+\T1/pplj/m/n/10.95 Repp, Hin-rich Harms, Roland Win-kler, and the whole L[]T[]X
+-community
+ []
+
+) [11
+
+] [12
+
+
+
+]
+\openout2 = `FrontBackMatter/Contents.aux'.
+
+ (FrontBackMatter/Contents.tex
+Package tocbasic Info: character protrusion at toc deactivated on input line 13
+.
+ (main.toc
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplj/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [13
+
+
+
+]
+Package tocbasic Info: character protrusion at lof deactivated on input line 33
+.
+ (main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [14
+
+]
+Package tocbasic Info: character protrusion at lot deactivated on input line 46
+.
+
+(main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+ [15] (main.lol)
+\tf@lol=\write8
+\openout8 = `main.lol'.
+
+ [16]
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 76.
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <9> not available
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 76.
+) [17] [18
+
+
+
+] [1
+
+
+
+
+] [2]
+\openout2 = `Chapters/Chapter01.aux'.
+
+ (Chapters/Chapter01.tex
+chapter 1.
+
+Class scrreprt Warning: \float@addtolists detected!
+(scrreprt)              Implementation of \float@addtolist became
+(scrreprt)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrreprt)              has been replaced by several more flexible
+(scrreprt)              features of package `tocbasic`.
+(scrreprt)              Since Version 3.12 support for deprecated
+(scrreprt)              \float@addtolist interface has been
+(scrreprt)              restricted to only some of the KOMA-Script
+(scrreprt)              features and been removed from others.
+(scrreprt)              Loading of package `scrhack' may help to
+(scrreprt)              avoid this warning, if you are using a
+(scrreprt)              a package that still implements the
+(scrreprt)              deprecated \float@addtolist interface .
+
+LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <9> not available
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 13.
+[3
+
+
+
+]
+Overfull \hbox (2.23529pt too wide) in paragraph at lines 63--64
+[]\T1/fvm/m/n/10.95 classicthesis-config.tex\T1/pplj/m/n/10.95 : a cen-tral pla
+ce to load all nifty pack-
+ []
+
+[4]
+Overfull \hbox (9.23082pt too wide) in paragraph at lines 97--98
+[]\T1/fvm/m/n/10.95 eulermath\T1/pplj/m/n/10.95 : loads the awe-some Eu-ler fon
+ts for math. (Palatino
+ []
+
+[5]
+Overfull \hbox (25.95596pt too wide) in paragraph at lines 101--102
+\T1/pplj/m/n/10.95 cally en-ables the \T1/fvm/m/n/10.95 minionpro \T1/pplj/m/n/
+10.95 op-tion and over-rides the \T1/fvm/m/n/10.95 pdfspacing
+ []
+
+
+Overfull \hbox (7.59367pt too wide) in paragraph at lines 127--128
+[]\T1/pplj/m/n/10.95 In or-der to make things eas-ier in gen-eral, \T1/fvm/m/n/
+10.95 classicthesis-config.tex
+ []
+
+
+Overfull \hbox (11.02849pt too wide) in paragraph at lines 133--134
+\T1/pplj/m/n/10.95 This sec-tion will give you some hints about how to adapt \T
+1/fvm/m/n/10.95 classicthesis
+ []
+
+LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
+(Font)              scaled to size 7.65005pt on input line 138.
+
+Overfull \hbox (2.07549pt too wide) in paragraph at lines 138--138
+ \T1/fvm/m/sl/9 thesis-config.tex
+ []
+
+
+Overfull \hbox (2.07549pt too wide) in paragraph at lines 138--138
+\T1/fvm/m/sl/9 thesis-config.tex  
+ []
+
+[6]
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 8.50006pt on input line 140.
+
+Overfull \hbox (2.07549pt too wide) in paragraph at lines 164--164
+ \T1/fvm/m/sl/9 classicthesis.sty
+ []
+
+
+Overfull \hbox (2.07549pt too wide) in paragraph at lines 164--164
+\T1/fvm/m/sl/9 classicthesis.sty  
+ []
+
+
+Overfull \hbox (5.54257pt too wide) in paragraph at lines 171--172
+[]\T1/pplj/m/n/10.95 Beta ver-sions of \T1/fvm/m/n/10.95 classicthesis \T1/pplj
+/m/n/10.95 can be found at the fol-low-ing Google
+ []
+
+LaTeX Font Info:    Font shape `T1/fvm/m/it' in size <10.95> not available
+(Font)              Font shape `T1/fvm/m/sl' tried instead on input line 178.
+LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
+(Font)              scaled to size 9.30756pt on input line 178.
+[7])
+Overfull \hbox (7.80904pt too wide) in paragraph at lines 209--91
+\T1/pplj/m/it/10.95 with-out any war-ranty\T1/pplj/m/n/10.95 ; with-out even th
+e im-plied war-ranty of \T1/pplj/m/it/10.95 mer-chantabil-
+ []
+
+[8] [9
+
+
+
+
+
+] [10]
+\openout2 = `Chapters/Chapter02.aux'.
+
+ (Chapters/Chapter02.tex
+chapter 2.
+
+Overfull \hbox (0.39906pt too wide) in paragraph at lines 15--15
+\T1/pplj/m/n/10.95 Nulla ul-lam-cor-per vestibu-lum turpis. Pel-len-tesque cur-
+sus luc-tus mau-
+ []
+
+[11
+
+
+
+]
+Overfull \hbox (3.01057pt too wide) in paragraph at lines 24--24
+[]\T1/pplj/m/n/10.95 Fusce mau-ris. Vestibu-lum luc-tus nibh at lec-tus. Sed bi
+ben-dum, nulla
+ []
+
+[12]
+Overfull \hbox (18.80463pt too wide) in paragraph at lines 41--41
+[]\T1/pplj/m/n/10.95 Pellentesque habi-tant morbi tris-tique senec-
+ []
+
+
+Overfull \hbox (10.94551pt too wide) in paragraph at lines 41--41
+\T1/pplj/m/n/10.95 lum fringilla lorem. Sed neque lec-tus, con-sectetuer at, co
+n-sectetuer
+ []
+
+
+Overfull \hbox (9.30934pt too wide) in paragraph at lines 42--42
+\T1/pplj/m/n/10.95 quam auc-tor, pede con-se-quat laoreet var-ius, eros tel-lus
+ scelerisque
+ []
+
+
+Overfull \hbox (0.77591pt too wide) in paragraph at lines 51--51
+\T1/pplj/m/n/10.95 Morbi ul-tri-ces rutrum lorem. Nam el-e-men-tum ul-lam-cor-p
+er leo. Morbi
+ []
+
+
+Overfull \hbox (9.6941pt too wide) in paragraph at lines 54--54
+\T1/pplj/m/n/10.95 Vestibu-lum diam eros, fringilla et, con-sectetuer eu, non-u
+mmy id, sapien.
+ []
+
+[13] <gfx/example_1.jpg, id=378, 240.9pt x 180.675pt>
+File: gfx/example_1.jpg Graphic file (type jpg)
+ <use gfx/example_1.jpg>
+Package pdftex.def Info: gfx/example_1.jpg used on input line 92.
+(pdftex.def)             Requested size: 151.19897pt x 113.40128pt.
+
+<gfx/example_2.jpg, id=379, 240.9pt x 180.675pt>
+File: gfx/example_2.jpg Graphic file (type jpg)
+ <use gfx/example_2.jpg>
+Package pdftex.def Info: gfx/example_2.jpg used on input line 95.
+(pdftex.def)             Requested size: 151.19897pt x 113.40128pt.
+
+<gfx/example_3.jpg, id=380, 240.9pt x 180.675pt>
+File: gfx/example_3.jpg Graphic file (type jpg)
+ <use gfx/example_3.jpg>
+Package pdftex.def Info: gfx/example_3.jpg used on input line 97.
+(pdftex.def)             Requested size: 151.19897pt x 113.40128pt.
+
+<gfx/example_4.jpg, id=381, 240.9pt x 180.675pt>
+File: gfx/example_4.jpg Graphic file (type jpg)
+ <use gfx/example_4.jpg>
+Package pdftex.def Info: gfx/example_4.jpg used on input line 99.
+(pdftex.def)             Requested size: 151.19897pt x 113.40128pt.
+)
+[14] [15 <./gfx/example_1.jpg> <./gfx/example_2.jpg> <./gfx/example_3.jpg> <./g
+fx/example_4.jpg>]
+\openout2 = `Chapters/Chapter03.aux'.
+
+ (Chapters/Chapter03.tex [16
+
+
+
+
+]
+chapter 3.
+
+Overfull \hbox (0.973pt too wide) in paragraph at lines 9--9
+\T1/pplj/m/n/10.95 Aliquam lec-tus. Vi-va-mus leo. Quisque ornare tel-lus ul-la
+m-cor-per nulla.
+ []
+
+[17]) [18] [19
+
+
+
+] [20]
+\openout2 = `Chapters/Chapter0A.aux'.
+
+ (Chapters/Chapter0A.tex
+chapter A.
+
+Overfull \hbox (0.973pt too wide) in paragraph at lines 7--7
+\T1/pplj/m/n/10.95 Aliquam lec-tus. Vi-va-mus leo. Quisque ornare tel-lus ul-la
+m-cor-per nulla.
+ []
+
+
+Overfull \hbox (1.97018pt too wide) in paragraph at lines 7--7
+\T1/pplj/m/n/10.95 nulla. Vestibu-lum rhon-cus mo-lestie odio. Sed lobor-tis, j
+usto et pretium
+ []
+
+
+Overfull \hbox (16.78175pt too wide) in paragraph at lines 15--15
+\T1/pplj/m/n/10.95 viverra ali-quam risus. Nul-lam pede justo, mo-lestie non-um
+my, scelerisque
+ []
+
+[21
+
+
+
+]) [22]
+\openout2 = `FrontBackMatter/Bibliography.aux'.
+
+ (FrontBackMatter/Bibliography.tex (main.bbl)) [23
+
+
+
+
+
+
+] [24
+
+
+
+]
+\openout2 = `FrontBackMatter/Colophon.aux'.
+
+
+(FrontBackMatter/Colophon.tex) [25
+
+] [26
+
+
+
+]
+\openout2 = `FrontBackMatter/Declaration.aux'.
+
+ (FrontBackMatter/Declaration.tex)
+[27
+
+
+
+]
+\openout2 = `FrontBackMatter/Backpage.aux'.
+
+ (FrontBackMatter/Backpage.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(42.67912pt, 483.12715pt, 71.70166pt)
+* v-part:(T,H,B)=(28.45274pt, 715.18755pt, 101.40665pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=483.12715pt
+* \textheight=715.18755pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-0.56833pt
+* \topmargin=-80.16725pt
+* \headheight=15.95pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.60002pt
+* \marginparwidth=76.21515pt
+* \marginparsep=21.77576pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+<./gfx/HHlogoBack.png, id=466, 1093.08376pt x 476.78125pt>
+File: ./gfx/HHlogoBack.png Graphic file (type png)
+
+<use ./gfx/HHlogoBack.png>
+Package pdftex.def Info: ./gfx/HHlogoBack.png used on input line 6.
+(pdftex.def)             Requested size: 250.93842pt x 109.45367pt.
+) [28
+
+
+
+
+ <./gfx/HHlogoBack.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
+ (main.aux
+(FrontBackMatter/Titlepage.aux) (FrontBackMatter/Titleback.aux)
+(FrontBackMatter/Dedication.aux) (FrontBackMatter/Abstract.aux)
+(FrontBackMatter/Publication.aux) (FrontBackMatter/Acknowledgments.aux)
+(FrontBackMatter/Contents.aux) (Chapters/Chapter01.aux) (Chapters/Chapter02.aux
+) (Chapters/Chapter03.aux) (Chapters/Chapter0A.aux)
+(FrontBackMatter/Bibliography.aux) (FrontBackMatter/Colophon.aux)
+(FrontBackMatter/Declaration.aux) (FrontBackMatter/Backpage.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 7C185A6DF98B3C5D5670E478DA4BC990;2104.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
+ ) 
+Here is how much of TeX's memory you used:
+ 18330 strings out of 493335
+ 283949 string characters out of 3141004
+ 641049 words of memory out of 3000000
+ 21212 multiletter control sequences out of 15000+200000
+ 92715 words of font info for 142 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,13n,67p,8485b,2286s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/software_path/MikTex/fonts/enc/dvips/fontname/8r.enc}{D:/software_path/Mi
+kTex/fonts/enc/dvips/dejavu/dejavusanslight_t1-type1.enc}{D:/software_path/MikT
+ex/fonts/enc/dvips/dejavu/dejavusans_t1-type1.enc}<D:/software_path/MikTex/font
+s/type1/public/dejavu/DejaVuSans-Bold.pfb><D:/software_path/MikTex/fonts/type1/
+public/dejavu/DejaVuSans-ExtraLight.pfb><D:/software_path/MikTex/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><D:/software_path/MikTex/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><D:/software_path/MikTex/fonts/type1/public/amsfonts/euler/eufm
+10.pfb><D:/software_path/MikTex/fonts/type1/public/amsfonts/euler/eufm7.pfb><D:
+/software_path/MikTex/fonts/type1/public/amsfonts/euler/eurb10.pfb><D:/software
+_path/MikTex/fonts/type1/public/amsfonts/euler/eurm10.pfb><D:/software_path/Mik
+Tex/fonts/type1/public/amsfonts/euler/eurm7.pfb><D:/software_path/MikTex/fonts/
+type1/public/fpl/fplrc8a.pfb><D:/software_path/MikTex/fonts/type1/public/fpl/fp
+lrij8a.pfb><D:/software_path/MikTex/fonts/type1/bera/fvmr8a.pfb><D:/software_pa
+th/MikTex/fonts/type1/bera/fvmro8a.pfb><D:/software_path/MikTex/fonts/type1/urw
+/palatino/uplb8a.pfb><D:/software_path/MikTex/fonts/type1/urw/palatino/uplr8a.p
+fb><D:/software_path/MikTex/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (46 pages, 523965 bytes).
+PDF statistics:
+ 558 PDF objects out of 1000 (max. 8388607)
+ 139 named destinations out of 1000 (max. 500000)
+ 19255 words of extra memory for PDF output out of 20736 (max. 10000000)
+
